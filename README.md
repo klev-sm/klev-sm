@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klev-sm&color=green" alt="Profile views" /></p>
 <hr>
 
-I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe.
+I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe (IFS - Lagarto).
 
 - 🌱 I’m currently learning Typescript, Lua, Vue.JS and Flutter.
 - 💬 Ask me about Javascript, NODE.JS, SQL and what you want to know...
