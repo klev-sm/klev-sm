@@ -13,7 +13,7 @@ I'm currently studying for a Bachelor's Degree in Information Systems at the Fed
 <div align="left">
   <a href="https://github.com/klev-sm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klev-sm&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api?username=klev-sm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klev-sm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
@@ -29,7 +29,6 @@ I'm currently studying for a Bachelor's Degree in Information Systems at the Fed
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 <br>
 
 📫 Reach me out 👇
