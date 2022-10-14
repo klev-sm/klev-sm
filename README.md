@@ -34,7 +34,7 @@ I'm currently studying for a Bachelor's Degree in Information Systems at the Fed
 
 📫 Reach me out 👇
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white?link="https://www.instagram.com/klev_sm")
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/klev-sm/)](https://www.instagram.com/klev-sm/)
 
 
 
