@@ -1,4 +1,4 @@
-<h4 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kleverton Montalvão</h1>
+<h3 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kleverton Montalvão</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klev-sm&color=green" alt="Profile views" /></p>
 <hr>
 
@@ -13,8 +13,9 @@ I'm currently studying for a Bachelor's Degree in Information Systems at the Fed
 <div align="left">
   <a href="https://github.com/klev-sm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klev-sm&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klev-sm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api?username=klev-sm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+<br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -28,6 +29,7 @@ I'm currently studying for a Bachelor's Degree in Information Systems at the Fed
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 <br>
 
 📫 Reach me out 👇
