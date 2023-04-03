@@ -5,7 +5,7 @@
 I'm currently studying for a Bachelor's Degree in Information Systems at the Federal Institute of Education, Science and Technology of Sergipe (IFS - Lagarto).
 
 - 🌱 I’m currently learning Typescript.
-- 💬 Ask me about Javascript, NODE.JS, SQL, FiveM and what you want to know...
+- 💬 Ask me about Javascript, NODE.JS, SQL and what you want to know...
 - 📫 How to reach me: klevertonmontalvao09@gmail.com
 - :video_game: Fun fact: I'm a game addict
 <hr>
